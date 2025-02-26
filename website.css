@@ -1,4 +1,4 @@
-body {
+* {
   margin: 0;
 }
 
@@ -42,6 +42,7 @@ nav > a {
 
 main {
   background-color: var(--color0);
+  margin: 0;
 }
 
 
@@ -85,4 +86,12 @@ article>h2 {
 
 img {
   max-width: 100%;
+}
+
+
+footer {
+  color: 	white;
+  background-color: var(--color0);
+  font-size: 20px;
+  text-align: center;
 }
