@@ -82,3 +82,7 @@ article>h2 {
   margin: auto;
   margin-bottom: 10px;
 }
+
+img {
+  max-width: 100%;
+}
